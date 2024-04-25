@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my pet Java application on Spring Boot<br>🌱 I’m currently learning Spring Boot, C++, Unreal Engine
+🔭 I’m currently working on a geme project on unreal engine 5.4<br>🌱 I’m currently learning opengl
 
 
 ## 🌐 Socials:
